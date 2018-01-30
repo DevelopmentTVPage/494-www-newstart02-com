@@ -1,0 +1,42 @@
+{
+    "title": "Demendia - 7th Status (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "X0_xNOgwaYU",
+    "date_created": "1381352873",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420164",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Demendia-7th-Status-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.120268,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 34,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/X0_xNOgwaYU\/maxresdefault.jpg",
+        "uploadDate": 1381352873,
+        "videoId": "X0_xNOgwaYU",
+        "title": "Demendia - 7th Status (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "views": "49"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Cyan - Zap Phazer (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "BY1D0CyVyzQ",
+    "date_created": "1381352829",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420167",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Zap-Phazer-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.053438,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 34,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BY1D0CyVyzQ\/maxresdefault.jpg",
+        "uploadDate": 1381352829,
+        "videoId": "BY1D0CyVyzQ",
+        "title": "Cyan - Zap Phazer (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "views": "56"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

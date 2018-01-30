@@ -1,0 +1,42 @@
+{
+    "title": "Cyan - Menace (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "8oqyaFuH-ys",
+    "date_created": "1381353057",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420159",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Menace-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.053438,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 61,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8oqyaFuH-ys\/maxresdefault.jpg",
+        "uploadDate": 1381353057,
+        "videoId": "8oqyaFuH-ys",
+        "title": "Cyan - Menace (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 61,
+        "prettyDuration": "00:01:01",
+        "views": "45"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

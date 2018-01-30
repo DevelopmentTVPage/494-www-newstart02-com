@@ -1,0 +1,43 @@
+{
+    "title": "Cyan - Toxic Threat (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "eTH7ais7LF0",
+    "date_created": "1381352817",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420169",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Toxic-Threat-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.827497,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 34,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eTH7ais7LF0\/maxresdefault.jpg",
+        "uploadDate": 1381352817,
+        "videoId": "eTH7ais7LF0",
+        "title": "Cyan - Toxic Threat (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "views": "79"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

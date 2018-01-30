@@ -1,0 +1,42 @@
+{
+    "title": "Digital Echoes - Just a Dream (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "5ZdrEIKCuao",
+    "date_created": "1381352549",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420180",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Digital-Echoes-Just-a-Dream-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 246.40958,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 49,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5ZdrEIKCuao\/maxresdefault.jpg",
+        "uploadDate": 1381352549,
+        "videoId": "5ZdrEIKCuao",
+        "title": "Digital Echoes - Just a Dream (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 49,
+        "prettyDuration": "00:00:49",
+        "views": "39"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

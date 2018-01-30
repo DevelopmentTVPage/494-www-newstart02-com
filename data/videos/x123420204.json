@@ -1,0 +1,42 @@
+{
+    "title": "Injector - Time Killer (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "vQTwwPn27Ck",
+    "date_created": "1381351846",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420204",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Injector-Time-Killer-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16.670479,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 25,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vQTwwPn27Ck\/maxresdefault.jpg",
+        "uploadDate": 1381351846,
+        "videoId": "vQTwwPn27Ck",
+        "title": "Injector - Time Killer (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 25,
+        "prettyDuration": "00:00:25",
+        "views": "53"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

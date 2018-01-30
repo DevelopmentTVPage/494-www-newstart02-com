@@ -1,0 +1,42 @@
+{
+    "title": "Destination - Dances With Wolfs (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "SZ0prEybBAA",
+    "date_created": "1381352559",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420181",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Destination-Dances-With-Wolfs-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.315208,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SZ0prEybBAA\/maxresdefault.jpg",
+        "uploadDate": 1381352559,
+        "videoId": "SZ0prEybBAA",
+        "title": "Destination - Dances With Wolfs (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "views": "45"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Cyan - A New Galaxy (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "CYT-axPQipk",
+    "date_created": "1381353559",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420143",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-A-New-Galaxy-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25",
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 90.58882,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 39,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CYT-axPQipk\/maxresdefault.jpg",
+        "uploadDate": 1381353559,
+        "videoId": "CYT-axPQipk",
+        "title": "Cyan - A New Galaxy (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 39,
+        "prettyDuration": "00:00:39",
+        "views": "51"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

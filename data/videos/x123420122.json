@@ -1,0 +1,43 @@
+{
+    "title": "Chaos - Geometric (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "I_NWUb4Uot4",
+    "date_created": "1381416467",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420122",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Chaos-Geometric-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "30",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 7.359044,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 24,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/I_NWUb4Uot4\/maxresdefault.jpg",
+        "uploadDate": 1381416467,
+        "videoId": "I_NWUb4Uot4",
+        "title": "Chaos - Geometric (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 24,
+        "prettyDuration": "00:00:24",
+        "views": "38"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
