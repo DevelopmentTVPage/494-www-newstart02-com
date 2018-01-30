@@ -1,0 +1,42 @@
+{
+    "title": "Cyan - Amagalma",
+    "description": "Unreleased Track",
+    "referenceId": "owbxzL5H5qc",
+    "date_created": "1457711574",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420046",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Amagalma",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.009322,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 490,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/owbxzL5H5qc\/maxresdefault.jpg",
+        "uploadDate": 1457711574,
+        "videoId": "owbxzL5H5qc",
+        "title": "Cyan - Amagalma",
+        "description": "Unreleased Track",
+        "author": "13Astralized13",
+        "mediaDuration": 490,
+        "prettyDuration": "00:08:10",
+        "views": "971"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

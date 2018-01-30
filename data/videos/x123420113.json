@@ -1,0 +1,43 @@
+{
+    "title": "Amnezia - Just Scream (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "noYJyHSNIUQ",
+    "date_created": "1381416725",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420113",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Amnezia-Just-Scream-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.61214,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 31,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/noYJyHSNIUQ\/maxresdefault.jpg",
+        "uploadDate": 1381416725,
+        "videoId": "noYJyHSNIUQ",
+        "title": "Amnezia - Just Scream (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 31,
+        "prettyDuration": "00:00:31",
+        "views": "67"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

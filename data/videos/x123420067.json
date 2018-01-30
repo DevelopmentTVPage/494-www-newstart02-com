@@ -1,0 +1,42 @@
+{
+    "title": "Electric Wolf - Mendark",
+    "description": "Maximum Resonance - The Second Coming",
+    "referenceId": "badF911jQqU",
+    "date_created": "1383404571",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420067",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Electric-Wolf-Mendark",
+    "category": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 105.993904,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 504,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/badF911jQqU\/maxresdefault.jpg",
+        "uploadDate": 1383404571,
+        "videoId": "badF911jQqU",
+        "title": "Electric Wolf - Mendark",
+        "description": "Maximum Resonance - The Second Coming",
+        "author": "13Astralized13",
+        "mediaDuration": 504,
+        "prettyDuration": "00:08:24",
+        "views": "288"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

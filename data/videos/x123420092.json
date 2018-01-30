@@ -1,0 +1,42 @@
+{
+    "title": "Cryptus - Eclipse (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "WwKubh31xLM",
+    "date_created": "1381417400",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420092",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cryptus-Eclipse-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.897017,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 41,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WwKubh31xLM\/maxresdefault.jpg",
+        "uploadDate": 1381417400,
+        "videoId": "WwKubh31xLM",
+        "title": "Cryptus - Eclipse (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 41,
+        "prettyDuration": "00:00:41",
+        "views": "97"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

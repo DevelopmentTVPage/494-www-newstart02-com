@@ -1,0 +1,42 @@
+{
+    "title": "Cygnet - Stolen Dreams (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "NJb2xnVZ1A4",
+    "date_created": "1381352839",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420166",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cygnet-Stolen-Dreams-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8.154087,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 51,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NJb2xnVZ1A4\/maxresdefault.jpg",
+        "uploadDate": 1381352839,
+        "videoId": "NJb2xnVZ1A4",
+        "title": "Cygnet - Stolen Dreams (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 51,
+        "prettyDuration": "00:00:51",
+        "views": "62"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

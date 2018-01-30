@@ -1,0 +1,42 @@
+{
+    "title": "Loona Park - Therion",
+    "description": "Trance Experience 4",
+    "referenceId": "abX4lt_zdKg",
+    "date_created": "1382777014",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420075",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Loona-Park-Therion",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.230079,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 444,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/abX4lt_zdKg\/maxresdefault.jpg",
+        "uploadDate": 1382777014,
+        "videoId": "abX4lt_zdKg",
+        "title": "Loona Park - Therion",
+        "description": "Trance Experience 4",
+        "author": "13Astralized13",
+        "mediaDuration": 444,
+        "prettyDuration": "00:07:24",
+        "views": "1326"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

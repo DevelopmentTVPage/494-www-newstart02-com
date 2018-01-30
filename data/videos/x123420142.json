@@ -1,0 +1,42 @@
+{
+    "title": "Cyan - Aizen-Myoo (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "jFgOzK2GdFE",
+    "date_created": "1381353500",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420142",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Aizen-Myoo-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.053438,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 9,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jFgOzK2GdFE\/maxresdefault.jpg",
+        "uploadDate": 1381353500,
+        "videoId": "jFgOzK2GdFE",
+        "title": "Cyan - Aizen-Myoo (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 9,
+        "prettyDuration": "00:00:09",
+        "views": "51"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

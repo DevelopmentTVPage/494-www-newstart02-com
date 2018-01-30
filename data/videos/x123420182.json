@@ -1,0 +1,42 @@
+{
+    "title": "Destination - Alien PC (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "1I1Ak3Fvsh8",
+    "date_created": "1381352544",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420182",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Destination-Alien-PC-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "8"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 13.896216,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 34,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1I1Ak3Fvsh8\/maxresdefault.jpg",
+        "uploadDate": 1381352544,
+        "videoId": "1I1Ak3Fvsh8",
+        "title": "Destination - Alien PC (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "views": "50"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

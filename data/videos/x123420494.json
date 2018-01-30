@@ -1,0 +1,42 @@
+{
+    "title": "Soundreamer - Mine World",
+    "description": "Cygnus Olor 2",
+    "referenceId": "nvBmbnMBpp8",
+    "date_created": "1377948274",
+    "date_modified": "1517274391",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420494",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Soundreamer-Mine-World",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16.676367,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 40,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nvBmbnMBpp8\/maxresdefault.jpg",
+        "uploadDate": 1377948274,
+        "videoId": "nvBmbnMBpp8",
+        "title": "Soundreamer - Mine World",
+        "description": "Cygnus Olor 2",
+        "author": "13Astralized13",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "146"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

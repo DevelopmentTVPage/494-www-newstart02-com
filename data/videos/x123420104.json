@@ -1,0 +1,42 @@
+{
+    "title": "Quazar - Time to Rock (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "lRk5dtBtBzw",
+    "date_created": "1381417032",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420104",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Quazar-Time-to-Rock-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 281.83527,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 49,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lRk5dtBtBzw\/maxresdefault.jpg",
+        "uploadDate": 1381417032,
+        "videoId": "lRk5dtBtBzw",
+        "title": "Quazar - Time to Rock (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 49,
+        "prettyDuration": "00:00:49",
+        "views": "268"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

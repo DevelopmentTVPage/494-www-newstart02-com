@@ -1,0 +1,42 @@
+{
+    "title": "Rainman - Lunar",
+    "description": "VA - Epelasi The Age of Steel (compiled by Astralized)",
+    "referenceId": "iP3A8KFpwZw",
+    "date_created": "1388420006",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420057",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Rainman-Lunar",
+    "category": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 45.718994,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 474,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iP3A8KFpwZw\/maxresdefault.jpg",
+        "uploadDate": 1388420006,
+        "videoId": "iP3A8KFpwZw",
+        "title": "Rainman - Lunar",
+        "description": "VA - Epelasi The Age of Steel (compiled by Astralized)",
+        "author": "13Astralized13",
+        "mediaDuration": 474,
+        "prettyDuration": "00:07:54",
+        "views": "1261"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

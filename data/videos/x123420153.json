@@ -1,0 +1,43 @@
+{
+    "title": "Cyan - Dungeons of Pain (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "HiWxe6bihPM",
+    "date_created": "1381353431",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420153",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Dungeons-of-Pain-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "16",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 12.606915,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 24,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HiWxe6bihPM\/maxresdefault.jpg",
+        "uploadDate": 1381353431,
+        "videoId": "HiWxe6bihPM",
+        "title": "Cyan - Dungeons of Pain (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 24,
+        "prettyDuration": "00:00:24",
+        "views": "69"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

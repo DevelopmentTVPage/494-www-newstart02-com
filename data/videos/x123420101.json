@@ -1,0 +1,42 @@
+{
+    "title": "Spectrum - Energyflow (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "NFYNtnovmLc",
+    "date_created": "1381417039",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420101",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Spectrum-Energyflow-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 6.362261,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 25,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NFYNtnovmLc\/maxresdefault.jpg",
+        "uploadDate": 1381417039,
+        "videoId": "NFYNtnovmLc",
+        "title": "Spectrum - Energyflow (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 25,
+        "prettyDuration": "00:00:25",
+        "views": "60"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

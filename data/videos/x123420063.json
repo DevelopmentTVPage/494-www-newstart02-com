@@ -1,0 +1,42 @@
+{
+    "title": "Zerohour - Siberius",
+    "description": "Maximum Resonance - The Second Coming",
+    "referenceId": "rTJ_QsgFn60",
+    "date_created": "1383404612",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420063",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Zerohour-Siberius",
+    "category": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 96.306366,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 524,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rTJ_QsgFn60\/maxresdefault.jpg",
+        "uploadDate": 1383404612,
+        "videoId": "rTJ_QsgFn60",
+        "title": "Zerohour - Siberius",
+        "description": "Maximum Resonance - The Second Coming",
+        "author": "13Astralized13",
+        "mediaDuration": 524,
+        "prettyDuration": "00:08:44",
+        "views": "301"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

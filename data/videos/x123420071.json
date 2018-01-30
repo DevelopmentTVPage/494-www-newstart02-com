@@ -1,0 +1,42 @@
+{
+    "title": "Ceyram - B.U.T.",
+    "description": "Maximum Resonance - The Second Coming",
+    "referenceId": "p5nQz3jI7h4",
+    "date_created": "1383404554",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420071",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Ceyram-B-U-T",
+    "category": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 96.306366,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 504,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/p5nQz3jI7h4\/maxresdefault.jpg",
+        "uploadDate": 1383404554,
+        "videoId": "p5nQz3jI7h4",
+        "title": "Ceyram - B.U.T.",
+        "description": "Maximum Resonance - The Second Coming",
+        "author": "13Astralized13",
+        "mediaDuration": 504,
+        "prettyDuration": "00:08:24",
+        "views": "175"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

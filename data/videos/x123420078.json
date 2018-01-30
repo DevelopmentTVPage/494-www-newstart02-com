@@ -1,0 +1,42 @@
+{
+    "title": "Syndrome - Time Out",
+    "description": "Maximum Ptzatzot",
+    "referenceId": "l06YjDfZCxo",
+    "date_created": "1382629299",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420078",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Syndrome-Time-Out",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 20.706848,
+    "VIDEO_LENGTH": "LONG",
+    "duration": 459,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/l06YjDfZCxo\/maxresdefault.jpg",
+        "uploadDate": 1382629299,
+        "videoId": "l06YjDfZCxo",
+        "title": "Syndrome - Time Out",
+        "description": "Maximum Ptzatzot",
+        "author": "13Astralized13",
+        "mediaDuration": 459,
+        "prettyDuration": "00:07:39",
+        "views": "806"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

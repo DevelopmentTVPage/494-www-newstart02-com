@@ -1,0 +1,43 @@
+{
+    "title": "Holymen - Beavis in the Haze (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "QPM3BC2f4NU",
+    "date_created": "1381352062",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420201",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Holymen-Beavis-in-the-Haze-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 68.57877,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 26,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/QPM3BC2f4NU\/maxresdefault.jpg",
+        "uploadDate": 1381352062,
+        "videoId": "QPM3BC2f4NU",
+        "title": "Holymen - Beavis in the Haze (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 26,
+        "prettyDuration": "00:00:26",
+        "views": "49"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

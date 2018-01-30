@@ -1,0 +1,42 @@
+{
+    "title": "Asinar - Freeman (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "4mUl1pCT4W0",
+    "date_created": "1381416740",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420110",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Asinar-Freeman-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 6.406967,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 25,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4mUl1pCT4W0\/maxresdefault.jpg",
+        "uploadDate": 1381416740,
+        "videoId": "4mUl1pCT4W0",
+        "title": "Asinar - Freeman (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 25,
+        "prettyDuration": "00:00:25",
+        "views": "82"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Cyan - Cyan _scream_ (RealTone)",
+    "description": "RealTones by Astralized",
+    "referenceId": "-6NplEcTXBY",
+    "date_created": "1381353591",
+    "date_modified": "1517274453",
+    "tags": "",
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "123420138",
+    "loginId": "1759047",
+    "entityType": "1",
+    "titleTextEncoded": "Cyan-Cyan-scream-RealTone",
+    "category": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.053438,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 5,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-6NplEcTXBY\/maxresdefault.jpg",
+        "uploadDate": 1381353591,
+        "videoId": "-6NplEcTXBY",
+        "title": "Cyan - Cyan _scream_ (RealTone)",
+        "description": "RealTones by Astralized",
+        "author": "13Astralized13",
+        "mediaDuration": 5,
+        "prettyDuration": "00:00:05",
+        "views": "57"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
