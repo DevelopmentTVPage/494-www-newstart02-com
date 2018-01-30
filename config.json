@@ -1,0 +1,15 @@
+{
+    "title": "Social 2",
+    "baseURL": "https:\/\/www.newstart02.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "newstart02.com"
+    }
+}
